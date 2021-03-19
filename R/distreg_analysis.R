@@ -149,7 +149,7 @@ switch(likelihood,
        'gamma' = {brm.fam <- 'gamma2'},
        'skewnorm' = {brm.fam <- 'skew_normal'},
        'sinh' = {brm.fam <- 'sinhasinh'},
-       stop('What?')
+       stop('Invalid distribution')
 )
 if (likelihood %in% c('gamma','sinh')) {
   dpars <- get(brm.fam)$dpars
