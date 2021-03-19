@@ -1,0 +1,21 @@
+"dataset","dep_var","likelihood","fm","k","model_id"
+"AHRI","logratio","sinh",1,3,1
+"AHRI","logratio","sinh",2,3,2
+"AHRI","logratio","sinh",3,3,3
+"AHRI","logratio","sinh",4,3,4
+"AHRI","logratio","sinh",5,3,5
+"AHRI Deheaped","logratio","sinh",1,3,6
+"AHRI Deheaped","logratio","sinh",2,3,7
+"AHRI Deheaped","logratio","sinh",3,3,8
+"AHRI Deheaped","logratio","sinh",4,3,9
+"AHRI Deheaped","logratio","sinh",5,3,10
+"DHS","logratio","sinh",1,3,11
+"DHS","logratio","sinh",2,3,12
+"DHS","logratio","sinh",3,3,13
+"DHS","logratio","sinh",4,3,14
+"DHS","logratio","sinh",5,3,15
+"Manicaland","logratio","sinh",1,3,16
+"Manicaland","logratio","sinh",2,3,17
+"Manicaland","logratio","sinh",3,3,18
+"Manicaland","logratio","sinh",4,3,19
+"Manicaland","logratio","sinh",5,3,20
